@@ -10,7 +10,8 @@ Manual QA test cases and bug report samples (portfolio repo).
 - **test-cases/**
   - `login-test-cases.md` — manual test cases for login
   - `signup-test-cases.md` — manual test cases for signup + validation
-
+  - [password-reset-test-cases.md](test-cases/password-reset-test-cases.md) — manual test cases for password reset
+ 
 ## How to use this repo
 
 1. Start with the folder README files for quick context.
